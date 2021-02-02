@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: e3515c91a99bc4f408662fe4573e925e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: whiteChicken_0
+  - first:
+      213: 21300002
+    second: whiteChicken_1
+  - first:
+      213: 21300004
+    second: whiteChicken_2
+  - first:
+      213: 21300006
+    second: whiteChicken_3
+  - first:
+      213: 21300008
+    second: whiteChicken_4
+  - first:
+      213: 21300010
+    second: whiteChicken_5
+  - first:
+      213: 21300012
+    second: whiteChicken_6
+  - first:
+      213: 21300014
+    second: whiteChicken_7
+  - first:
+      213: 21300016
+    second: whiteChicken_8
+  - first:
+      213: 21300018
+    second: whiteChicken_9
+  - first:
+      213: 21300020
+    second: whiteChicken_10
+  - first:
+      213: 21300022
+    second: whiteChicken_11
+  - first:
+      213: 21300024
+    second: whiteChicken_12
+  - first:
+      213: 21300026
+    second: whiteChicken_13
+  - first:
+      213: 21300028
+    second: whiteChicken_14
+  - first:
+      213: 321212051648538661
+    second: whiteChicken_0
+  - first:
+      213: 357983904665003899
+    second: whiteChicken_1
+  - first:
+      213: 1457133979077416494
+    second: whiteChicken_2
+  - first:
+      213: -2366903101605283670
+    second: whiteChicken_3
+  - first:
+      213: 5696211317756452374
+    second: whiteChicken_4
+  - first:
+      213: -61583580180367452
+    second: whiteChicken_5
+  - first:
+      213: 79259070685752427
+    second: whiteChicken_6
+  - first:
+      213: 3643496673524911830
+    second: whiteChicken_7
+  - first:
+      213: -2443280397999568473
+    second: whiteChicken_8
+  - first:
+      213: 8803988620070189258
+    second: whiteChicken_9
+  - first:
+      213: 2970811982754055994
+    second: whiteChicken_10
+  - first:
+      213: -2376183064888220389
+    second: whiteChicken_11
+  - first:
+      213: 501683340362324383
+    second: whiteChicken_12
+  - first:
+      213: 8405060937030948053
+    second: whiteChicken_13
+  - first:
+      213: -8724356426948551117
+    second: whiteChicken_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whiteChicken_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e51cb8ac257400800000000000000
+      internalID: 321212051648538661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776dd0f670d7f400800000000000000
+      internalID: 357983904665003899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 195
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269f0d32a7c83410800000000000000
+      internalID: 1457133979077416494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 190
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fb036b22172fd0800000000000000
+      internalID: -2366903101605283670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 189
+        width: 117
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ede6083020d0f40800000000000000
+      internalID: 5696211317756452374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73a536f06352ff0800000000000000
+      internalID: -61583580180367452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca37174b5991100800000000000000
+      internalID: 79259070685752427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 99
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de05c5abec409230800000000000000
+      internalID: 3643496673524911830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a98f8e4c69b71ed0800000000000000
+      internalID: -2443280397999568473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 95
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87dd1210d0e2a70800000000000000
+      internalID: 8803988620070189258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37878e12c17a3920800000000000000
+      internalID: 2970811982754055994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e900971a160fd0800000000000000
+      internalID: -2376183064888220389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99170c075656f600800000000000000
+      internalID: 501683340362324383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 4
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4dd3be366c4a470800000000000000
+      internalID: 8405060937030948053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whiteChicken_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed5d5ad0cdce680800000000000000
+      internalID: -8724356426948551117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44459d5933c52024d949a23989143b11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
