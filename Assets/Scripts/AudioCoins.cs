@@ -11,10 +11,7 @@ public class AudioCoins : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  
     public static void playMusic()
     {
         audio.Play();
